@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">@dimen/_16sdp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">@dimen/_16sdp</dimen>
+    <dimen name="activity_vertical_margin">@dimen/_16sdp</dimen>
+    <dimen name="app_bar_height">@dimen/_120sdp</dimen>
+    <dimen name="team_header_height">@dimen/_180sdp</dimen>
+    <dimen name="back_button_background_margin_top">@dimen/_9sdp</dimen>
+    <dimen name="back_button_background_margin_start">@dimen/_12sdp</dimen>
+    <dimen name="team_name_margin">@dimen/_38sdp</dimen>
+    <dimen name="team_extra_text_margin">@dimen/_12sdp</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ddd</color>
+    <color name="colorPrimaryDark">#444</color>
+    <color name="colorAccent">#444</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#990000</color>
+    <color name="light_gray">#DDDDDD</color>
+    <color name="gray">#888888</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="light_green">#7accc4</color>
+    <color name="green">#2e7d32</color>
+    <color name="background">#EEEEEE</color>
+    <color name="transparent">#00000000</color>
+
+    <!--    competitions colors-->
+    <color name="permier_league">#3F1052</color>
+    <color name="serie_a_brazil">#10502f</color>
+    <color name="championship">#777777</color>
+    <color name="euro_cup">#093E84</color>
+    <color name="champions_league">#162E58</color>
+    <color name="ligue_1">#b9bf00</color>
+    <color name="seria_A_italy">#1D9647</color>
+    <color name="bundesliga">#B12829</color>
+    <color name="eredivise">#fb8c00</color>
+    <color name="primeira_liga">#822B31</color>
+    <color name="la_liga">#003472</color>
+    <color name="world_cup">#0087e6</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football League Application</string>
+    <string name="title_competitions">Competitions</string>
+    <string name="no_connection">Something went wrong…\nPlease try again</string>
+    <string name="players">Players</string>
+    <string name="shirt">Shirt</string>
+    <string name="position">Position</string>
+    <string name="nationality">Nationality</string>
+    <string name="format_matchday">0 Matchday</string>
+
+</resources>
